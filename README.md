@@ -19,7 +19,7 @@ pip install pandas
 2. Run the script:
 
 ```bash
-python script.py
+python flatten-ndjson.py
 ```
 
 3. The output will be saved as `output.csv` in the same directory.
