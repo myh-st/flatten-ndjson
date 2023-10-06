@@ -61,3 +61,8 @@ df.to_csv('output.csv', index=False, encoding='utf-8')
 ```
 
 That's it! You now have a CSV file containing the flattened patient data.
+
+Source:
+ - https://www.geeksforgeeks.org/python-pandas-flatten-nested-json/
+ - https://medium.com/@amirziai/flatten-json-on-python-package-index-pypi-9e4951693a5a
+ - https://towardsdatascience.com/flattening-json-objects-in-python-f5343c794b10
